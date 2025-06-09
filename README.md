@@ -32,8 +32,8 @@ This project uses SQL to perform data analysis on a sample eCommerce database. I
 
 ## 🛠️ Tools
 
-- MySQL 
--   MySQL Workbench
+- SQL
+-   Microsoft SQL Server
 
 ## 📷 How to Use
 
