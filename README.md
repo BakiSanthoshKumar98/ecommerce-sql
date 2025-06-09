@@ -32,8 +32,8 @@ This project uses SQL to perform data analysis on a sample eCommerce database. I
 
 ## 🛠️ Tools
 
-- MySQL / PostgreSQL / SQLite
-- DB Browser for SQLite / pgAdmin / MySQL Workbench
+- MySQL 
+-   MySQL Workbench
 
 ## 📷 How to Use
 
